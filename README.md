@@ -2,7 +2,7 @@
 
 Sistemi lokal ortamınıza çekmek için terminal üzerinden aşağıdaki adımları izleyin.
 
-**Doğrudan Klonlamak İçin:**
+**Klonlamak İçin:**
 ```bash
 git clone [https://github.com/KULLANICI_ADINIZ/telemetry_system.git](https://github.com/KULLANICI_ADINIZ/telemetry_system.git)
 cd telemetry_system
