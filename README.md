@@ -1,6 +1,6 @@
 ## Kullanım ve Kurulum
 
-Sistemi lokal ortamınıza çekmek için terminal üzerinden aşağıdaki adımları izleyin.
+Sistemi lokal ortama çekmek için terminal üzerinden aşağıdaki adımları izle.
 
 **Klonlamak İçin:**
 ```bash
