@@ -18,6 +18,7 @@ GitHub üzerinden repoyu kendi hesabına fork et.
 
 Kendi kopyanı bilgisayarına çek:
 
-Bash
+```Bash
 git clone [https://github.com/KENDI_HESABINIZ/telemetry_system.git](https://github.com/KENDI_HESABINIZ/telemetry_system.git)
 cd telemetry_system
+```
