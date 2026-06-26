@@ -6,9 +6,6 @@ Sistemi lokal ortama çekmen lazım adımları izle.
 ```bash
 git clone [https://github.com/KULLANICI_ADINIZ/telemetry_system.git](https://github.com/KULLANICI_ADINIZ/telemetry_system.git)
 cd telemetry_system
-
-
-
 ```
 
 
