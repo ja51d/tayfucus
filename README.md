@@ -8,6 +8,8 @@ git clone [https://github.com/KULLANICI_ADINIZ/telemetry_system.git](https://git
 cd telemetry_system
 
 
+colab olmayan arkadaşlar.
+
 Kod üzerinde değişiklik yapacak ekip üyeleri ana repoya doğrudan push atmamalıdır.
 
 GitHub üzerinden repoyu kendi hesabınıza fork edin.
