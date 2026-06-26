@@ -7,7 +7,12 @@ Sistemi lokal ortama çekmen lazım adımları izle.
 git clone [https://github.com/KULLANICI_ADINIZ/telemetry_system.git](https://github.com/KULLANICI_ADINIZ/telemetry_system.git)
 cd telemetry_system
 
+
+
 ```
+
+
+
 ## Colab olmayan arkadaşlar (yetkisi olmayan).
 
 Kod üzerinde değişiklik yapacak ekip üyeleri ana repoya doğrudan push atmamalıdır.
